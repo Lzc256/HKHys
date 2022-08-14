@@ -1,7 +1,7 @@
 {
-  "name": "HysteriaHeroku",
-  "description": "Hysteria on heroku",
-  "keywords": ["Hysteria"],
+  "name": "HKHys",
+  "description": "HKHys",
+  "keywords": ["Hys"],
   "env": {
     "port": {
       "description": "Hysteria开启的端口",
